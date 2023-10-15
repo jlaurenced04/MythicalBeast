@@ -9,6 +9,7 @@ public class test : MonoBehaviour
     public void Sample()
     {
         Debug.Log("Removed");
+        Debug.Log("try");
     }
     void Start()
     {
