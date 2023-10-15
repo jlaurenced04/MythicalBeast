@@ -4,7 +4,12 @@ using UnityEngine;
 
 public class test : MonoBehaviour
 {
-    public float move;
+   //remove
+
+    public void Sample()
+    {
+        Debug.Log("Removed");
+    }
     void Start()
     {
         
